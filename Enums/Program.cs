@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using CourseEnums.Entities.Enums;
 using CourseEnums.Entities;
 
@@ -9,12 +9,6 @@ namespace CourseEnums
     {
         static void Main(string[] args)
         {
-
-
-
-            /////////////////// Enums //////////////////////////////////////////////////
-            ///
-
             Order order = new Order
             {
                 Id = 3082,
@@ -30,9 +24,6 @@ namespace CourseEnums
 
             Console.WriteLine(txt);
             Console.WriteLine(os);
-
-            ///
-            /////////////////// Enums //////////////////////////////////////////////////
         }
     }
 }
