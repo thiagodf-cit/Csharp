@@ -6,9 +6,9 @@ namespace CourseEnums.Entities
 
         public Department() { }
 
-        public Department(string nome)
+        public Department(string name)
         {
-            Nome = nome;
+            Name = name;
         }
     }
 }

@@ -17,7 +17,7 @@ namespace CourseEnums.Entities
             Hours = hours;
         }
 
-        public doube TotalValue()
+        public double TotalValue()
         {
             return ValuePerHour * Hours;
         }
