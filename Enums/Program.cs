@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 using CourseEnums.Entities.Enums;
 using CourseEnums.Entities;
 
@@ -9,21 +10,30 @@ namespace CourseEnums
     {
         static void Main(string[] args)
         {
-            Order order = new Order
-            {
-                Id = 3082,
-                Moment = DateTime.Now,
-                Status = OrderStatus.PendingPayment
-            };
 
-            Console.WriteLine("Pedido: " + order);
+            ///////////////////////////////////////////////////////////////////////
+            // Order order = new Order
+            // {
+            //     Id = 3082,
+            //     Moment = DateTime.Now,
+            //     Status = OrderStatus.PendingPayment
+            // };
 
-            string txt = OrderStatus.PendingPayment.ToString();
+            // Console.WriteLine("Pedido: " + order);
 
-            OrderStatus os = Enum.Parse<OrderStatus>("Shipped");
+            // string txt = OrderStatus.PendingPayment.ToString();
 
-            Console.WriteLine(txt);
-            Console.WriteLine(os);
+            // OrderStatus os = Enum.Parse<OrderStatus>("Shipped");
+
+            // Console.WriteLine(txt);
+            // Console.WriteLine(os);
+            ///
+            ////////////////////////////////////////////////////////////////////
+            ///
+            Console.Write("Enter with Department name: ");
+            string department = Console.ReadLine();
+            
+
         }
     }
 }
