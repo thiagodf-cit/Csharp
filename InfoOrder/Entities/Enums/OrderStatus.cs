@@ -1,4 +1,4 @@
-﻿namespace CourseEnums.Entities.Enums
+﻿namespace InfoOrder.Entities.Enums
 {
     public enum OrderStatus : int
     {

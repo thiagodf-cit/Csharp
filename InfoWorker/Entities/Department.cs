@@ -1,4 +1,4 @@
-namespace CourseEnums.Entities
+namespace InfoWorker.Entities
 {
     public class Department
     {

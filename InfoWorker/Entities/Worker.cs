@@ -1,8 +1,7 @@
 using System.Collections.Generic;
-using CourseEnums.Entities;
-using CourseEnums.Entities.Enums;
+using InfoWorker.Entities.Enums;
 
-namespace CourseEnums.Entities
+namespace InfoWorker.Entities
 {
     public class Worker
     {

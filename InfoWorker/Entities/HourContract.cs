@@ -1,6 +1,6 @@
 using System;
 
-namespace CourseEnums.Entities
+namespace InfoWorker.Entities
 {
     public class HourContract
     {
