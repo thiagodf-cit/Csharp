@@ -1,5 +1,3 @@
-using System;
-
 namespace Posts.Entities
 {
     public class Comment
@@ -9,7 +7,7 @@ namespace Posts.Entities
         public Comment()
         {
         }
-        
+
         public Comment(string text)
         {
             Text = text;
