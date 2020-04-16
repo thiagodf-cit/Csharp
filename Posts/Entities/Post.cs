@@ -35,7 +35,7 @@ namespace Posts.Entities
             Comments.Remove(comment);
         }
 
-        public override string ToString() 
+        public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(Title);
@@ -49,7 +49,7 @@ namespace Posts.Entities
                 sb.AppendLine(c.Text);
             }
 
-            return sb;
+            return sb.ToString();
         }
 
     }
