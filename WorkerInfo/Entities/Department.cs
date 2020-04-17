@@ -1,4 +1,4 @@
-namespace Worker.Entities
+namespace WorkerInfo.Entities
 {
     public class Department
     {

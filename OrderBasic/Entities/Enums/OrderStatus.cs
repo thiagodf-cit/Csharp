@@ -1,4 +1,4 @@
-namespace Order.Entities.Enums
+namespace OrderBasic.Entities.Enums
 {
     public enum OrderStatus : int
     {

@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
-using Worker.Entities;
-using Worker.Entities.Enums;
+using WorkerInfo.Entities;
+using WorkerInfo.Entities.Enums;
 
-namespace Worker
+namespace WorkerInfo
 {
     class Program
     {

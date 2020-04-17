@@ -1,13 +1,13 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoOrder", "InfoOrder\InfoOrder.csproj", "{9D4B10EC-7A6F-4400-8A3F-B9B04F52EE57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBasic", "OrderBasic\OrderBasic.csproj", "{9D4B10EC-7A6F-4400-8A3F-B9B04F52EE57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoWorker", "InfoWorker\InfoWorker.csproj", "{08AF2DD0-1F11-44D4-8911-E31BC5E3CDC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerInfo", "WorkerInfo\WorkerInfo.csproj", "{08AF2DD0-1F11-44D4-8911-E31BC5E3CDC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Posts", "Posts\Posts.csproj", "{E12C9620-30B4-43C8-BB9F-E8D6F2E9DB19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoProduct", "InfoProduct\InfoProduct.csproj", "{48824B35-3E7E-4DD7-B64F-4C745F687D98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProduct", "OrderProduct\OrderProduct.csproj", "{48824B35-3E7E-4DD7-B64F-4C745F687D98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 using System;
 
-namespace Worker.Entities
+namespace WorkerInfo.Entities
 {
     public class HourContract
     {

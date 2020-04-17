@@ -1,8 +1,8 @@
 using System;
-using Order.Entities;
-using Order.Entities.Enums;
+using OrderBasic.Entities;
+using OrderBasic.Entities.Enums;
 
-namespace Order
+namespace OrderBasic
 {
     class Program
     {
