@@ -39,7 +39,7 @@ namespace OrderProduct
                 Console.Write("Quantity: ");
                 int productQuantity = int.Parse(Console.ReadLine());
 
-                OrderItem orderItem = new OrderItem(productQuantity, productPrice, productName);
+                OrderItem orderItem = new OrderItem(productQuantity, productPrice, product);
 
                 order.AddItem(orderItem);
             }
