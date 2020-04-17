@@ -32,17 +32,16 @@ ports:
 vscode:
   extensions:
     - blairleduc.net-core-starters-pack@1.1.0:7mshfWZxI70Csou6S5OZ5g==
-    # - adrianwilczynski.add-reference@1.0.2:txR1WE01eH6JEojtuekxFQ==
-    # - adrianwilczynski.asp-net-core-switcher@2.0.2:/OcpAa9EZqn0U4NG+fDHpg==
-    # - boundarystudio.csharp-extentions-pack@0.2.4:Qy/h/4Xzu+2b/P3GHZ5Tuw==
-    # - dannymcgee.csharp-grammar-extended@1.1.1:dU3xbg4r3fhtltHGFodC5g==
-    # - Leopotam.csharpfixformat@0.0.84:1I+vrErKCOr6I/3ECn6kcA==
+    - adrianwilczynski.add-reference@1.0.2:txR1WE01eH6JEojtuekxFQ==
+    - adrianwilczynski.asp-net-core-switcher@2.0.2:/OcpAa9EZqn0U4NG+fDHpg==
+    - boundarystudio.csharp-extentions-pack@0.2.4:Qy/h/4Xzu+2b/P3GHZ5Tuw==
+    - dannymcgee.csharp-grammar-extended@1.1.1:dU3xbg4r3fhtltHGFodC5g==
     - formulahendry.dotnet@0.0.4:BDL7fFzO1JaD/56bYMX4pg==
-    # - formulahendry.code-runner@0.9.17:/CI2LS8o4IE980vinLu1Yg==
-    # - leo-labs.dotnet@1.0.3:YR8ZjeV+0/Ut87luga8WGw==
+    - formulahendry.code-runner@0.9.17:/CI2LS8o4IE980vinLu1Yg==
+    - leo-labs.dotnet@1.0.3:YR8ZjeV+0/Ut87luga8WGw==
     - jorgeserrano.vscode-csharp-snippets@0.3.1:DRjnkQ2XYPXprrvtxE5t7g==
-    # - formulahendry.dotnet-test-explorer@0.7.1:aMBBHLwB96Y4mOqZ8ucTKw==
+    - formulahendry.dotnet-test-explorer@0.7.1:aMBBHLwB96Y4mOqZ8ucTKw==
     - ms-dotnettools.csharp@1.21.17:5/iI88WHX4j3iL5jASDTYQ==
-    # - thiagorjes.csharpwebapi@0.7.5:PgPBe5cdeLMtPQ8TGjuHug==
-    # - vain0x.csharp-gen-ctor@1.3.0:xDGxzA5oYauStK4afOms6A==
+    - thiagorjes.csharpwebapi@0.7.5:PgPBe5cdeLMtPQ8TGjuHug==
+    - vain0x.csharp-gen-ctor@1.3.0:xDGxzA5oYauStK4afOms6A==
     - ms-vscode.csharp@1.21.12:kw8SkO8+aVTSFug281WfQQ==
