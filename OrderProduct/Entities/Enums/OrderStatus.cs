@@ -1,4 +1,4 @@
-﻿namespace InfoOrder.Entities.Enums
+namespace OrderProduct.Entities.Enums
 {
     public enum OrderStatus : int
     {

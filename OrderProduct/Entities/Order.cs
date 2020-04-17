@@ -1,8 +1,8 @@
 using System;
-using InfoProduct.Entities;
-using InfoProduct.Entities.Enums;
+using OrderProduct.Entities;
+using OrderProduct.Entities.Enums;
 
-namespace InfoProduct
+namespace OrderProduct
 {
     public class Order
     {

@@ -1,4 +1,4 @@
-namespace InfoProduct.Entities
+namespace OrderProduct.Entities
 {
     public class Product
     {

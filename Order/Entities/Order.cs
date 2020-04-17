@@ -1,7 +1,7 @@
-﻿using System;
-using InfoOrder.Entities.Enums;
+using System;
+using Order.Entities.Enums;
 
-namespace InfoOrder.Entities
+namespace Order.Entities
 {
     public class Order
     {

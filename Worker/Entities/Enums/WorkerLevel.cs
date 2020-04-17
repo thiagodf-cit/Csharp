@@ -1,4 +1,4 @@
-namespace InfoWorker.Entities.Enums
+namespace Worker.Entities.Enums
 {
     public enum WorkerLevel : int
     {

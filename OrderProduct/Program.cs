@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
-using InfoProduct.Entities;
-using InfoProduct.Entities.Enums;
+using OrderProduct.Entities;
+using OrderProduct.Entities.Enums;
 
-namespace InfoProduct
+namespace OrderProduct
 {
     class Program
     {

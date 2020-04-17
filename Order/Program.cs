@@ -1,8 +1,8 @@
-﻿using System;
-using InfoOrder.Entities;
-using InfoOrder.Entities.Enums;
+using System;
+using Order.Entities;
+using Order.Entities.Enums;
 
-namespace InfoOrder
+namespace Order
 {
     class Program
     {

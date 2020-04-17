@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using InfoWorker.Entities.Enums;
+using Worker.Entities.Enums;
 
-namespace InfoWorker.Entities
+namespace Worker.Entities
 {
     public class Worker
     {
