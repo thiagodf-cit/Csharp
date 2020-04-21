@@ -14,9 +14,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "BankAccount\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees", "Employees\Employees.csproj", "{DB94437A-ABF4-424F-897B-5CBD868C6CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryAndCatch", "TryAndCatch\TryAndCatch.csproj", "{C8D536FE-38FA-4002-97AE-33D712138933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryAndCatch", "TryAndCatch\TryAndCatch.csproj", "{C8D536FE-38FA-4002-97AE-33D712138933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel", "Hotel\Hotel.csproj", "{E104B7AB-F8A1-4B18-B666-02563C32FA09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel", "Hotel\Hotel.csproj", "{E104B7AB-F8A1-4B18-B666-02563C32FA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAccount", "BasicAccount\BasicAccount.csproj", "{71DF44B6-38DE-4996-A8AD-04A4BE40F9B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{E104B7AB-F8A1-4B18-B666-02563C32FA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E104B7AB-F8A1-4B18-B666-02563C32FA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E104B7AB-F8A1-4B18-B666-02563C32FA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DF44B6-38DE-4996-A8AD-04A4BE40F9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DF44B6-38DE-4996-A8AD-04A4BE40F9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DF44B6-38DE-4996-A8AD-04A4BE40F9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DF44B6-38DE-4996-A8AD-04A4BE40F9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
